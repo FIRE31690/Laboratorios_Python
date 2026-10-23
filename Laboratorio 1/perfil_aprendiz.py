@@ -1,6 +1,0 @@
-print ("Nombre: Yohan Fernando Cuellar Ospino")
-print ("Edad: 20 años")
-print ("Estatura: 1.77 m")
-print ("Peso: 70 kg")
-print ("Categoría: Estudiante")
-print ("Activo: True")

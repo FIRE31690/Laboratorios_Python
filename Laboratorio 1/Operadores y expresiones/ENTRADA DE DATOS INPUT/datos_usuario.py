@@ -1,8 +1,0 @@
-Nombre = (input("Cual es tu nombre es:"))
-Ciudad = (input("cual es tu ciudad:"))
-Edad = (int(input("Cual es tu edad:")))
-Estatura = (float(input("Cual es tu estatura:")))
-print ("tu nombre es:", Nombre)
-print ("tu ciudad es:", Ciudad)
-print ("tu edad es:", Edad)
-print ("tu estatura es:", Estatura)
